@@ -1,4 +1,4 @@
-<![CDATA[# ClimbPulse ❤️
+# ClimbPulse ❤️
 
 <p align="center">
   <img src="ClimbPulse/Assets.xcassets/AppIcon.appiconset/icon.png" width="120" alt="ClimbPulse Logo"/>
@@ -167,7 +167,3 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ---
 
-<p align="center">
-  Made with ❤️ for health monitoring research
-</p>
-]]>
