@@ -1,0 +1,139 @@
+<![CDATA[# Xcode
+#
+# gitignore contributors: remember to update Global Business Responsibility 1 Excluded Paths header
+# when changes are made to this file.
+#
+# See also: https://github.com/github/gitignore/blob/main/Swift.gitignore
+
+## User settings
+xcuserdata/
+
+## Compatibility with Xcode 8 and earlier (project compatibility settings)
+*.xcscmblueprint
+
+## Xcode build files
+build/
+DerivedData/
+*.moved-aside
+*.xcuserstate
+
+## Xcode patch generated
+*.mode*v3
+
+## Build-generated files
+*.o
+*.a
+*.lo
+
+## SwiftPM
+.swiftpm/
+.build/
+Packages/
+Package.pins
+Package.resolved
+*.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/
+
+## CocoaPods (if used in the future)
+Pods/
+Podfile.lock
+
+## Carthage (if used in the future)
+Carthage/Build/
+Carthage/Checkouts/
+
+## SPM (Swift Package Manager)
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+
+## Accio dependency manager
+Dependencies/
+.accio/
+
+## fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+## Code Injection
+iOSInjectionProject/
+
+## Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+## Instruments
+*.instrdst
+
+## Archives
+*.xcarchive
+
+## macOS System Files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+## Finder
+Icon?
+.Spotlight-V100
+.Trashes
+
+## VSCode / Cursor
+.vscode/
+.cursor/
+
+## JetBrains IDEs (AppCode, etc.)
+.idea/
+*.iml
+
+## Crashlytics
+crashlytics-build.properties
+crashlytics.properties
+com_crashlytics_export_strings.xml
+fabric.properties
+
+## Environment and Secrets (never commit!)
+.env
+.env.*
+*.xcconfig
+!default.xcconfig
+Secrets.swift
+
+## Local development settings
+*.local
+
+## Test outputs
+test_output/
+coverage/
+*.coverage
+*.gcda
+*.gcno
+*.gcov
+
+## Compiled source code
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+## App bundles
+*.app
+
+## Logs
+*.log
+logs/
+
+## Temporary files
+*.tmp
+*.temp
+*.swp
+*~
+
+## Backup files
+*.bak
+*.backup
+
+## Archive files (optional, usually not committed)
+# *.zip
+# *.tar.gz
+]]>
