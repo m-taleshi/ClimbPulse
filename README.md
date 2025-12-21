@@ -1,7 +1,7 @@
 # ClimbPulse ❤️
 
 <p align="center">
-  <img src="ClimbPulse/Assets.xcassets/AppIcon.appiconset/icon.png" width="120" alt="ClimbPulse Logo"/>
+  <img src="logo.png" width="120" alt="ClimbPulse Logo"/>
 </p>
 
 <p align="center">
