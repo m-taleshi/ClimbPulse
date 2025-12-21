@@ -2,7 +2,7 @@
 //  ClimbPulseApp.swift
 //  ClimbPulse
 //
-//  Created by Mansour Taleshi on 11.12.2025.
+//  Heart rate monitoring app using camera-based PPG.
 //
 
 import SwiftUI
