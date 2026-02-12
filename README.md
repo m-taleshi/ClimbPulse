@@ -151,11 +151,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
----
-
-## 👤 Author
-
-**University of Jyväskylä (JYU)**
 
 ---
 
@@ -163,7 +158,6 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 - Built with SwiftUI and AVFoundation
 - Signal processing algorithms based on established PPG research
-- UI design inspired by modern health & fitness apps
 
 ---
 
